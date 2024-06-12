@@ -1,8 +1,8 @@
 import {
-  mobile,
-  backend,
-  creator,
-  web,
+  uashmideveloper,
+  webdesign,
+  gisdeveloper,
+  frontend,
   javascript,
   typescript,
   html,
@@ -42,20 +42,20 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
-    icon: web,
+    title: "Front-End Developer",
+    icon: frontend,
   },
   {
-    title: "React Native Developer",
-    icon: mobile,
+    title: "GIS Developer",
+    icon: gisdeveloper,
   },
   {
-    title: "Backend Developer",
-    icon: backend,
+    title: "UAS HMI Developer",
+    icon: uashmideveloper,
   },
   {
-    title: "Content Creator",
-    icon: creator,
+    title: "Web Designer",
+    icon: webdesign,
   },
 ];
 
