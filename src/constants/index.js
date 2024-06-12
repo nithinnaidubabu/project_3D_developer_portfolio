@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  newspace,
 } from "../assets";
 
 export const navLinks = [
@@ -116,55 +117,31 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    title: "Project Engineer",
+    company_name: "Newspace Research and Technologies Pvt. Ltd.",
+    icon: newspace,
+    iconBg: "#FFFFFF",
+    date: "April 2021 - December 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Designed and implemented REST APIs using JavaScript, integrating them with React to create efficient front-end interfaces.",
+      "Gained proficiency in front-end technologies such as React-JS, Redux, HTML, CSS, jQuery, and JavaScript, focusing on performance improvement and software capacity enhancement.",
+      "Acquired extensive experience in GIS-related software frameworks, libraries, and APIs, including Leaflet, Mapbox API, and Google Maps API, as well as GIS software application suites like ESRI ArcGIS and QGIS.",
+      "Developed an in-house Ground Control Station Software, serving as a Human Machine Interface for controlling and planning missions for swarming drones, with advanced features like routine creation and track-based mission organization."
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    title: "Design Engineer",
+    company_name: "Newspace Research and Technologies Pvt. Ltd.",
+    icon: newspace,
+    iconBg: "#FFFFFF",
+    date: "Jan 2022 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Led the implementation of advanced mission planning features, focusing on routine management, parameter validation, and efficient drone assignment for mission execution.",
+      "Developed a sophisticated software solution for unmanned aerial systems, showcasing expertise in map migration, interface design, socket IO implementation, and MUM-T integration.",
+      "Enhanced user experience by improving CSS styling, integrating position markers, developing video feed components, and engineering emergency controls for drone command issuance.",
+      "Optimized the Redux store for data management, maintained consistent page state during navigation, fixed bugs, and integrated toasters for user feedback.",
+      "Increased pipeline capacity by 350% through the development of Artillery Correction Software, which included features like concurrent video feed reception and location plotting from video feeds.",
+      "Demonstrated leadership by training defense officials on custom front-end software, managing inventory for a fleet of 70+ drones, and ensuring smooth software deployment in mission-critical environments."
     ],
   },
 ];
