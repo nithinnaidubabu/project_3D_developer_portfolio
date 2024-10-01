@@ -2,7 +2,7 @@ import {
   uashmideveloper,
   webdesign,
   gisdeveloper,
-  frontend,
+  fullstack,
   javascript,
   typescript,
   html,
@@ -24,6 +24,7 @@ import {
   tripguide,
   threejs,
   newspace,
+  northeastern,
 } from "../assets";
 
 export const navLinks = [
@@ -43,8 +44,8 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Front-End Developer",
-    icon: frontend,
+    title: "Full-Stack Developer",
+    icon: fullstack,
   },
   {
     title: "GIS Developer",
@@ -134,7 +135,7 @@ const experiences = [
     company_name: "Newspace Research and Technologies Pvt. Ltd.",
     icon: newspace,
     iconBg: "#FFFFFF",
-    date: "Jan 2022 - Present",
+    date: "Jan 2022 - July 2024",
     points: [
       "Led the implementation of advanced mission planning features, focusing on routine management, parameter validation, and efficient drone assignment for mission execution.",
       "Developed a sophisticated software solution for unmanned aerial systems, showcasing expertise in map migration, interface design, socket IO implementation, and MUM-T integration.",
@@ -144,6 +145,20 @@ const experiences = [
       "Demonstrated leadership by training defense officials on custom front-end software, managing inventory for a fleet of 70+ drones, and ensuring smooth software deployment in mission-critical environments."
     ],
   },
+  {
+    title: "Graduate Student",
+    company_name: "Northeastern University",
+    icon: northeastern,
+    iconBg: "#FFFFFF",
+    date: "August 2024 - Expected May 2026",
+    points: [
+      "Currently pursuing a Master's in Computer Software Engineering with coursework in Object-Oriented Concepts and Data Management and Database Design.",
+      "Developing a deep understanding of software engineering principles, including class design, inheritance, and polymorphism, as well as advanced database systems such as relational and NoSQL databases.",
+      "Acquired hands-on experience with SQL, database normalization, and query optimization techniques for efficient data management.",
+      "Enhancing software design skills through academic projects, focusing on scalable, maintainable, and efficient system architectures."
+    ],
+  },
+  
 ];
 
 const testimonials = [

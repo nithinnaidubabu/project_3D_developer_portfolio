@@ -47,12 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a proficient design engineer with experience in JavaScript and Python, 
-        and expertise in frameworks like React, Node.js, Mapbox and Three.js. 
-        I'm adept at using HTML, CSS, jQuery, and Redux to create user-friendly and efficient front-end interfaces. 
-        I'm a quick learner and partner with clients to develop cutting-edge, 
-        scalable, and user-friendly solutions that address real-world challenges. 
-        Let's join forces to turn your vision into reality!
+        I am a design engineer with a whetted edge in languages such as JavaScript, Python, SQL, and Java, all substantiated by frameworks including but not limited to React, Node.js, Mapbox, and Three.js. I build sleek and professional front-end user interfaces with HTML, CSS, jQuery, and Redux, keeping the user experience first. Currently mastering Computer Software Engineering at Northeastern University, I am a fan of fast learning and bold solutions. I collaborate with clients to create innovative, scalable user-focused results that solve real-world problems. Looking to bring your vision into being? Let's make it happen.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

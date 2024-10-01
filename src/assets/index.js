@@ -2,7 +2,7 @@ import logo from "./logo.png";
 import uashmideveloper from "./uashmideveloper.png";
 import webdesign from "./webdesign.png";
 import gisdeveloper from "./gisdeveloper.png";
-import frontend from "./frontend.png";
+import fullstack from "./frontend.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -26,6 +26,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import newspace from "./company/newspace.png";
+import northeastern from "./northeastern.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -36,7 +37,7 @@ export {
   uashmideveloper,
   webdesign,
   gisdeveloper,
-  frontend,
+  fullstack,
   github,
   menu,
   close,
@@ -61,4 +62,5 @@ export {
   jobit,
   tripguide,
   newspace,
+  northeastern,
 };
